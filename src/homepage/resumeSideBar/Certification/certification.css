@@ -1,0 +1,82 @@
+.certificate-container { 
+   margin: 5px 5px 5px;
+   margin-bottom: 2%;
+    height: 100%;
+    width: 100%;
+}
+.center-container img{
+    margin-left: 20px;
+    height: 50px;
+    width: 100px;
+    margin-bottom: 1%;
+}
+
+.training-name{
+    margin-left: 15x;
+    color: orange;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+
+.center-name{
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.img-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    margin-bottom: 2%;
+    width: 300px;
+    border-radius: 5%;
+    margin-left: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.certificate-details { 
+    width: 100%;
+    margin-top: 15px;
+    margin-left: -10px;
+}
+
+
+.style-list li{
+    list-style : disclosure-closed;
+    margin-left: 20px;
+}
+.ul-tech-list ul li{
+    list-style-type: disc;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+
+@media screen and (max-width : 910px) {
+    .center-container img{
+        margin-left: 84px;
+       
+    }
+    .img-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 200px;
+        margin-bottom: 2%;
+        width: 300px;
+        border-radius: 5%;
+        margin-left: -10px;
+      
+    }
+}
+
+
+    

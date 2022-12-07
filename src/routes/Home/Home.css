@@ -1,0 +1,11 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: auto;
+    /* min-height: 670px; */
+    background-image: url('../../../public/assets/4k-hd.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+}

@@ -1,0 +1,29 @@
+.interest-container{
+    height: 100%;
+    margin-bottom: 10%;
+}
+.interest-name{
+    height: 100%;
+    font-family: monospace;
+    width: auto;
+    font-size: 1rem;
+    color: tomato ;
+    /* color: #1c1c1c; */
+    /* padding: 10px 10px; */
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.interest-details{
+    height: 100%;
+    margin-bottom: 1%;
+    /* font-weight: bold; */
+    color: black;
+}
+
+.interest-detail-list{
+    list-style: disc;
+    color: tomato;
+    
+}
