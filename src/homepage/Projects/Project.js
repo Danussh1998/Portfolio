@@ -65,7 +65,7 @@ const Project = () => {
               Developed a Real World Responsive Portfolio Website With Email Functionality using React js andEmail.js.
             </p>
             <div className="github-button">
-            <a href="#" class="btn btn-primary" style={{marginTop : "6%"}} target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Danussh1998/Portfolio" class="btn btn-primary" style={{marginTop : "6%"}} target="_blank" rel="noopener noreferrer">
               GitHub
             </a>
             </div>

@@ -49,7 +49,7 @@ const HomePage = () => {
                     steps={[
                       "Software Engineer",
                       1000,
-                      "Front end react developer",
+                      "Frontend react developer",
                       1000,
                       "MERN stack",
                       1000,
@@ -59,7 +59,7 @@ const HomePage = () => {
                   ></Typical>
                 </h1>
                 <span className="profile-role-tagline">
-                  If You Think Math is Hard Try Web Design.
+                  Knack of building application with frontend and backend operations.
                 </span>
               </span>
             </div>

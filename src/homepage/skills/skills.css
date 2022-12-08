@@ -41,6 +41,9 @@
   transition: all 0.1s;
   box-shadow: 11px 0px 13px -7px rgba(97, 95, 97, 1);
 }
+.skill-card:hover {
+  transform: scale(1.1);
+}
 
 .skill-icons {
   height: 70px;
@@ -64,6 +67,10 @@
   box-shadow: 11px 0px 13px -7px rgba(97, 95, 97, 1);
 }
 
+.express-card:hover {
+  transform: scale(1.1);
+}
+
 .express-icon {
   height: 70px;
   background-color: var(--light-color);
@@ -82,11 +89,13 @@
      } */
   .skill-card {
     width: 26%;
-    height: 0%;
+    /* height: 0%; */
+    height: 18vh;
   }
   .express-card {
     width: 26%;
-    height: 0%;
+    /* height: 0%; */
+    height: 18vh;
   }
   .skill-name {
     margin: 3px;

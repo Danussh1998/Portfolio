@@ -22,10 +22,10 @@ const Footer = () =>{
                 </div>
                 <div className="phone-email">
                 <div className="phone" data-aos="fade-up">
-                    <h4 size={20} style={{color:'#fff' , marginRight:"2rem" ,fontSize:'15px'}}><FaPhone size={20} style={{color:"white" , marginRight:"1rem"}} data-aos="fade-up"/>7204721664</h4>
+                    <h4 size={20} style={{color:'#fff' , marginRight:"2rem" ,fontSize:'15px'}}><FaPhone size={20} style={{color:"white" , marginRight:"1rem"}} data-aos="fade-right"/>7204721664</h4>
                 </div>
                 <div className="email" data-aos="fade-up">
-                    <h4 size={20} style={{color:"white" , marginRight:"2rem",fontSize:'15px'}}><FaMailBulk size={20} style={{color:"white" , marginRight:"1rem"}} data-aos="fade-up"/>danussh1998@gmail.com</h4>
+                    <h4 size={20} style={{color:"white" , marginRight:"2rem",fontSize:'15px'}}><FaMailBulk size={20} style={{color:"white" , marginRight:"1rem"}} data-aos="fade-right"/>danussh1998@gmail.com</h4>
                 </div>
                 </div>
             </div>

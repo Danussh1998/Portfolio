@@ -37,7 +37,7 @@
      border-radius: 20px;
 }
 .education-details-list{
-    list-style-type: disc;
+    list-style-type: disclosure-closed;
     margin-left: 3%;
     color: tomato;
     font-size: 22px;

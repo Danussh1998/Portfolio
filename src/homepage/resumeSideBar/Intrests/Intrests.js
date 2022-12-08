@@ -27,7 +27,7 @@ const Intrests = () => {
               <div className="d-flex flex-column new-one">
                 <span className="interest-name">Gaming</span>
                 <span className="interest-details">
-                  I like to my reflexes a lot while gaming,pushing the rank and
+                  I like to challenge my reflexes a lot while gaming,pushing the rank and
                   having interactive gaming sessions exite me the most.{""}
                 </span>
               </div>
@@ -39,7 +39,7 @@ const Intrests = () => {
                 <span className="interest-name">Travelling</span>
                 <span className="interest-details">
                   {" "}
-                  I do enjoy travelling a lot because it allows me to learn
+                  I do enjoy travelling because it allows me to learn
                   about different places, different people, different cultures
                   and different kinds of lifestyles.{""}
                 </span>

@@ -23,7 +23,7 @@
 }
 
 .interest-detail-list{
-    list-style: disc;
+    list-style:disclosure-closed;
     color: tomato;
     
 }

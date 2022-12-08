@@ -74,7 +74,7 @@
        font-size: 2rem;
     }
 } 
-@media screen and (max-width : 910px) {
+@media screen and (max-width : 710px) {
 
     .nav-menu { 
         /* display: flex; */
@@ -92,7 +92,15 @@
         z-index: -3;
         transition: 0.8s;
     }
+    .nav-menu li a{
+        font-size: 2rem;
+     }
+      .nav-menu li{
+        padding:1rem 0;
+       
+    }
+@media screen and (max-width : ) {
     
-
+}
 }
 

@@ -5,7 +5,7 @@
     justify-content: center;
     height:86vh;
     /* min-height: fit-content; */
-    background-image: url('../../public/assets/4k-hd.jpg');
+    /* background-image: url('../../public/assets/4k-hd.jpg'); */
     background-size : cover; 
     background-repeat: no-repeat;
     background-position: center;
@@ -31,7 +31,7 @@
 }
 .profile-details-role h1{
     font-size: 30px;
-    font-family: cursive;
+    font-weight: bold;
 }
 .primary-text{
     color : white
@@ -212,7 +212,7 @@
 .profile-parent{
     flex-direction: column-reverse;
     /* margin: 40px 0 0 0; */
-    height: 77vh;
+    height: 100%;
 }
 .profile-options{
     display: flex;
